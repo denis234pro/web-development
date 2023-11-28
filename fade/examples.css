@@ -1,0 +1,140 @@
+*{
+  font-size: 18px;
+  background-color: ghostwhite;
+  color: grey;
+  margin-left: 30px;
+  margin-right: 50px;
+ 
+  
+
+}
+body{
+  margin: 2px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+
+
+
+a{
+  text-decoration: none;
+  color: gray;
+
+}
+a:hover{
+  color: gray;
+}
+h1{
+  text-align: center;
+  color: black;
+  font-size: 28px;
+  border-radius: 5px;
+  padding: 10px;
+}
+ul li{
+  font-size: 14px;
+  color: indigo;
+  margin: 35px;
+  display: flex;
+}
+img{
+  margin-left: 0px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+.menu{
+  margin-left: 0px;
+  float: right;
+  width: auto;
+}
+li{
+  display: flex;
+}
+#read{
+  max-width: 800px;
+
+}
+.navbar {
+  display: inline;
+}
+div a{
+  float: right;
+}
+button{
+  float: right;
+  border-radius: 8px;
+}
+.plus img{
+  float: right;
+}
+ ul li {
+  display: inline-block;
+  font-family: sans-serif;
+  
+ }
+ footer{
+  text-align: center;
+  color: gray;
+  font-size: 0.875rem;
+ }
+ div.people{
+  height: 300px;
+  width: 1100px;
+  display: flex;
+  max-width: 1200px;
+ }
+ 
+ h2{
+  color: black;
+ }
+ a{
+  color: black;
+ }
+ select option{
+  background-color: black;
+  color: white;
+  font-size: 14px;
+  padding: 3px;
+}
+.for-space , select{
+  font-family: roboto;
+  font-size: 12px;
+  padding: 8px;
+  margin-left: 10px;
+}
+label{
+  font-weight: bold;
+  font-size: 14px;
+}
+#application input {
+  padding: 6px;
+}
+.dash{
+  background-color: darkgreen;
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+  float: left;
+}
+input{
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+input [type='checkbox']{
+  width: 10px;
+  height: 5px;
+}
+#checkbox{
+  height: 20px;
+  width: 20px;
+  border-radius: 10px;
+}
+.brush{
+  width: 40px;
+  height: 40px;
+}
+.label{
+  font-size: 18px;
+  font-style: italic;
+}
